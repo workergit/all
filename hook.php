@@ -1,2 +1,2 @@
 <?php
-echo 'hello hi';
+echo exec('whoami');
